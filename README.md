@@ -15,3 +15,6 @@ Let's GO
 
 # 2023-11-19
 - "Programming wisdom for today: Always strive to write clean, readable, and maintainable code. It may take a bit more time upfront, but it will save you and your team countless hours in the long run. Remember, code is read far more often than it's written."
+
+# 2023-11-20
+- "Keep it simple, stupid!"
