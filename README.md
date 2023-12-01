@@ -56,3 +56,9 @@ Next, use tools and resources to help manage your workflow. For example, using v
 
 # 2023-11-30
 - "Today's programming wisdom is to focus on writing clean, maintainable, and efficient code that follows best practices and design patterns. Always strive to improve your skills and stay up-to-date with the latest technologies and trends in your field. Don't be afraid to ask for help or collaborate with others, as this can lead to better solutions and learning opportunities. Lastly, remember that debugging is an essential part of the development process, so approach it with patience and a logical mindset."
+
+# 2023-12-01
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This involves staying up-to-date with the latest programming languages, tools, and techniques. By constantly educating yourself and improving your skills, you can become a valuable asset to any team or project.
+
+One of the most important aspects of programming is problem-solving. When faced with a challenging problem, take a step back, analyze the issue, break it down into smaller components, then implement a solution. Practice debugging and testing your code to ensure it functions correctly and efficiently. Remember that code is a living document, so don't be afraid to refactor and optimize your work. 
+ - 来自NLP
