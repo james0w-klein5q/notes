@@ -62,3 +62,8 @@ Next, use tools and resources to help manage your workflow. For example, using v
 
 One of the most important aspects of programming is problem-solving. When faced with a challenging problem, take a step back, analyze the issue, break it down into smaller components, then implement a solution. Practice debugging and testing your code to ensure it functions correctly and efficiently. Remember that code is a living document, so don't be afraid to refactor and optimize your work. 
  - 来自NLP
+
+# 2023-12-02
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online communities. By constantly updating your knowledge and skills, you can become a valuable asset to any team or organization.
+
+Another important aspect of programming wise is problem-solving. When faced with a challenging problem, break it down into smaller, manageable tasks and use logical thinking to identify the best solution. Practice debugging and testing your code, which can help identify and fix errors more efficiently. Finally, never be afraid to ask for help or advice from others in the programming community. Remember, everyone started somewhere, so there is always someone willing to lend a hand or share their knowledge.
