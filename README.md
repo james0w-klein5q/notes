@@ -108,3 +108,8 @@ Next, use tools and resources to help manage your workflow. For example, using v
 1. Prioritize tasks: When you're working on a project, it' s important to determine which tasks are most critical and should be completed first. By prioritizing your tasks in this way, you can make sure that you focus on the most important aspects of the project.
 2. Plan ahead: Always plan your workflow and schedule ahead of time. Knowing what you need to do and when you want to complete it can help to keep you on track and prevent last-minute panic. Use project management tools like Trello or Asana to organize your task list and track progress. 
 3. Stay organized: Keeping your code, files, project folders, etc. organized is crucial for maintaining a clean and efficient workspace. Using version control systems like Git can also help with collaboration and tracking changes over time, making it easier to find and fix any issues that may arise.
+
+# 2023-12-11
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can lead to overly complex and hard-to-maintain code, and that we should focus on writing clear and correct code first. Only after profiling and identifying performance bottlenecks should we consider optimizing.
