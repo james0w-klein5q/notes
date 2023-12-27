@@ -182,3 +182,6 @@ One ofthe most important aspects of programming is problem-solving. When faced w
 4. Set deadlines: For each task on your list , set a deadline by which you want to have it completed. These deadlines will serve as a reminder to stay focused and on track with your goals.   
 5. Use tools to manage your workflow: There are many tools available that can help with project management and organization, such as Trello, Asana, or Todoist. Using these tools can keep your projects organized and make it easier to track your progress and deadlines.    
 6. Learn from your mistakes: As you work through your to-do list and complete projects, reflect on what worked well and what could have been done better. Learning from these experiences will make you an even more effective programmer in the future.
+
+# 2023-12-27
+- "Keep it simple, stupid!"
