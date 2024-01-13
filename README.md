@@ -251,3 +251,8 @@ Remember to take breaks throughout the day to clear your mind and refocus. Addit
 Second, always plan beforehand. When starting a new project, create a detailed plan that outlines the steps you need to take to complete it. Include deadlines for each step and make sure to stay on track. Planning ahead will prevent you from getting lost in the project and help ensure a smooth and efficient completion. 
  <p>
 Finally, stay organised. Use project management tools and software to keep track of your progress and tasks. Organising your code, files, documentation, etc. will make it easier to find what you're looking for and will also make your workflow more effective. Maintaining a clean and organised workspace will lead to a more enjoyable and fulfilling programming experience.
+
+# 2024-01-13
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, this translates to writing clean, maintainable code that solves the problem at hand without unnecessary complexity. Remember that every line of code you write is a liability; strive for clarity and minimalism. Also, 'Premature optimization is the root of all evil' — Donald Knuth, reminding us to focus on correctness first and optimize only when necessary based on data, not assumptions." 
+
+Another valuable insight: "Code is read much more often than it is written." This highlights the importance of writing readable, well-documented code, as others (including your future self) will spend considerable time understanding and working with it long after it was initially written.
