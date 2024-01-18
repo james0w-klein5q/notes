@@ -276,3 +276,6 @@ In practice, this means don't try to optimize your code before you fully underst
 
 # 2024-01-17
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use tools and techniques such as version control, task management, continuous integration, testing, debugging, documentation, etc. to stay organised and make your code and project better. Remember that continuous learning and improvement are key to success in programming, so always keep an open mind and seek new knowledge and skills.
+
+# 2024-01-18
+- "Keep it simple, stupid!"
