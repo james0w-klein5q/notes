@@ -365,3 +365,9 @@ This quote reminds programmers that focusing on optimizing code before it's nece
 4. Understand the basics: Master the fundamentals of computer science, including data structures, algorithms, operating systems, networking, databases, security, software engineering, project management, leadership, communication, time management and problem solving. These skills will provide a strong foundation for your career as an IT professional.   
 5. Open-source contribution: Participate in open- source projects and contribute to them. It will not only improve Your skills but also help to build your portfolio and network.    
 6. Be a good communicator: As a software developer, you need to communicate with various stakeholders, from business analysts to testers to clients. Good communication skills are essential to understand requirements, resolve conflicts, provide status updates, give constructive feedback, lead teams, mentor others, write documentation, make presentations, negotiate contracts, manage budgets, set priorities, meet deadlines, solve problems, analyze data, design systems and much more.
+
+# 2024-02-04
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Secondly, planning ahead is crucial. Before starting a project, think about the overall goal and break it down into smaller tasks. Create a plan with deadlines and milestones to keep yourself on track. Planning ahead will also help prevent last-minute panic and stress. 
+ - 来自NLP
