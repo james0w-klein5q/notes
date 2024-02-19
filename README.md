@@ -437,3 +437,8 @@ In more detail but still concise: Always consider the bigger picture and priorit
 - "Today's programming wisdom is: 'Simplicity is the ultimate sophistication.' – Leonardo da Vinci. This principle reminds us that in coding, as in art and engineering, the most elegant solutions are often the simplest ones. Strive to write clear, concise code that can be easily understood and maintained by others. Avoid unnecessary complexity, and remember that a well-structured program with minimal lines of code is generally more robust, scalable, and less prone to bugs than an overly complicated one." 
 
 In practical terms, this might mean choosing established patterns and libraries over reinventing the wheel, minimizing dependencies, and constantly refactoring your code to improve its readability and maintainability. It also emphasizes the importance of writing code with future developers (including your future self) in mind.
+
+# 2024-02-19
+- "Today's programming wisdom is to remember that code is read far more often than it's written. Strive for clarity and simplicity in your expressions, favoring readability over cleverness. Optimize for maintenance and collaboration by writing self-documenting code with meaningful variable names, comments, and consistent style. Always keep in mind the potential future reader who might inherit or modify your code – make their life easier." 
+
+In essence: Write code as if you had to explain it to someone who will be very angry if they can't understand it easily.
